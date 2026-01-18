@@ -1,0 +1,4 @@
+https://github.com/percent4/embedding_rerank_retrieval
+
+
+https://github.com/kzhisa/rag-rerank
